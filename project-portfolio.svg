@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260">
+<defs>
+  <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#2563eb"/>
+    <stop offset="100%" stop-color="#8b5cf6"/>
+  </linearGradient>
+</defs>
+<rect x="3" y="3" width="894" height="254" rx="26" fill="#081225" stroke="url(#g)" stroke-width="3"/>
+<circle cx="825" cy="48" r="95" fill="#8b5cf6" opacity=".10"/>
+<circle cx="770" cy="230" r="120" fill="#2563eb" opacity=".07"/>
+<text x="48" y="72" fill="#ffffff" font-family="Arial, sans-serif" font-size="31" font-weight="700">Mujtaba Portfolio</text>
+<text x="50" y="116" fill="#b8c8dd" font-family="Arial, sans-serif" font-size="18">A modern portfolio built to showcase creative web work and smooth interactions.</text>
+<text x="50" y="151" fill="#7dd3fc" font-family="Arial, sans-serif" font-size="15" font-weight="700">CLICK TO VIEW PROJECT</text>
+<rect x="52" y="190" width="125" height="34" rx="12" fill="#111c35" stroke="#8b5cf6" stroke-opacity=".75"/><text x="114" y="212" text-anchor="middle" fill="#e2e8f0" font-family="Arial, sans-serif" font-size="14" font-weight="700">Portfolio</text><rect x="197" y="190" width="125" height="34" rx="12" fill="#111c35" stroke="#8b5cf6" stroke-opacity=".75"/><text x="259" y="212" text-anchor="middle" fill="#e2e8f0" font-family="Arial, sans-serif" font-size="14" font-weight="700">Frontend</text><rect x="342" y="190" width="125" height="34" rx="12" fill="#111c35" stroke="#8b5cf6" stroke-opacity=".75"/><text x="404" y="212" text-anchor="middle" fill="#e2e8f0" font-family="Arial, sans-serif" font-size="14" font-weight="700">UI/UX</text>
+</svg>

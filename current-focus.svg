@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1050" height="180" viewBox="0 0 1050 180">
+<defs>
+  <linearGradient id="b" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#0f172a"/>
+    <stop offset="100%" stop-color="#172554"/>
+  </linearGradient>
+  <linearGradient id="a" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#22d3ee"/>
+    <stop offset="50%" stop-color="#8b5cf6"/>
+    <stop offset="100%" stop-color="#ec4899"/>
+  </linearGradient>
+</defs>
+<rect x="3" y="3" width="1044" height="174" rx="26" fill="url(#b)" stroke="url(#a)" stroke-width="3"/>
+<text x="48" y="55" fill="#ffffff" font-family="Arial, sans-serif" font-size="24" font-weight="700">Current Focus</text>
+<text x="48" y="92" fill="#bdd7ee" font-family="Arial, sans-serif" font-size="18">Building modern websites with stronger visual design, smooth animations and clean code.</text>
+<rect x="48" y="118" width="240" height="38" rx="14" fill="#111c35" stroke="#22d3ee"/>
+<text x="168" y="143" text-anchor="middle" fill="#e2e8f0" font-family="Arial, sans-serif" font-size="15" font-weight="700">Available for Collaboration</text>
+<rect x="310" y="118" width="200" height="38" rx="14" fill="#111c35" stroke="#8b5cf6"/>
+<text x="410" y="143" text-anchor="middle" fill="#e2e8f0" font-family="Arial, sans-serif" font-size="15" font-weight="700">Learning Every Day</text>
+<rect x="532" y="118" width="220" height="38" rx="14" fill="#111c35" stroke="#ec4899"/>
+<text x="642" y="143" text-anchor="middle" fill="#e2e8f0" font-family="Arial, sans-serif" font-size="15" font-weight="700">Focused on Great UI</text>
+</svg>

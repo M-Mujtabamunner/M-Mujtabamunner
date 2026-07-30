@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260">
+<defs>
+  <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#06b6d4"/>
+    <stop offset="100%" stop-color="#ec4899"/>
+  </linearGradient>
+</defs>
+<rect x="3" y="3" width="894" height="254" rx="26" fill="#081225" stroke="url(#g)" stroke-width="3"/>
+<circle cx="825" cy="48" r="95" fill="#ec4899" opacity=".10"/>
+<circle cx="770" cy="230" r="120" fill="#06b6d4" opacity=".07"/>
+<text x="48" y="72" fill="#ffffff" font-family="Arial, sans-serif" font-size="31" font-weight="700">Gravity Game</text>
+<text x="50" y="116" fill="#b8c8dd" font-family="Arial, sans-serif" font-size="18">A browser-based game project focused on interaction, motion and creative coding.</text>
+<text x="50" y="151" fill="#7dd3fc" font-family="Arial, sans-serif" font-size="15" font-weight="700">CLICK TO VIEW PROJECT</text>
+<rect x="52" y="190" width="125" height="34" rx="12" fill="#111c35" stroke="#ec4899" stroke-opacity=".75"/><text x="114" y="212" text-anchor="middle" fill="#e2e8f0" font-family="Arial, sans-serif" font-size="14" font-weight="700">HTML</text><rect x="197" y="190" width="125" height="34" rx="12" fill="#111c35" stroke="#ec4899" stroke-opacity=".75"/><text x="259" y="212" text-anchor="middle" fill="#e2e8f0" font-family="Arial, sans-serif" font-size="14" font-weight="700">Game</text><rect x="342" y="190" width="125" height="34" rx="12" fill="#111c35" stroke="#ec4899" stroke-opacity=".75"/><text x="404" y="212" text-anchor="middle" fill="#e2e8f0" font-family="Arial, sans-serif" font-size="14" font-weight="700">Animation</text>
+</svg>

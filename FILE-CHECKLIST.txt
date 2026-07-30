@@ -1,0 +1,23 @@
+FILES THAT MUST APPEAR IN THE REPOSITORY ROOT:
+
+- README.md
+- animated-aurora-hero.gif
+- typing.gif
+- developer-cartoon.gif
+- tagline.svg
+- animated-divider.gif
+- current-focus.svg
+- animated-skill-orbit.gif
+- rotating-3d-orb.gif
+- mujtaba-neon-orb.glb
+- project-portfolio.svg
+- project-gravity.svg
+- project-pantry.svg
+- activity.svg
+- languages.svg
+- portfolio.svg
+- github.svg
+- instagram.svg
+- email.svg
+- whatsapp.svg
+- footer.svg

@@ -1,0 +1,22 @@
+IMPORTANT — UPLOAD EVERY FILE
+
+The broken images happened because only README.md was uploaded.
+
+Do this:
+
+1. Extract this ZIP.
+2. Open your GitHub profile repository:
+   https://github.com/M-Mujtabamunner/M-Mujtabamunner
+3. Delete or replace the current README.md.
+4. Click Add file > Upload files.
+5. Select EVERY file from the extracted folder at the same time.
+6. Make sure README.md and all GIF/SVG/GLB files appear in the main repository area.
+7. Click Commit changes.
+
+Do NOT:
+- Upload only README.md.
+- Put the files inside another folder.
+- Upload the outer extracted folder itself.
+- Rename any image or animation file.
+
+README.md and files such as animated-aurora-hero.gif must be beside each other.
