@@ -8,13 +8,13 @@
 
 <br/><br/>
 
-<a href="https://mujtabamuneer.is-a.dev">
+<a href="https://mujtaba.is-a.dev">
   <img width="520" src="./developer-cartoon.gif" alt="Animated developer coding"/>
 </a>
 
 <br/><br/>
 
-<a href="https://mujtabamuneer.is-a.dev">
+<a href="https://mujtaba.is-a.dev">
   <img width="82%" src="./tagline.svg" alt="Designing ideas and building experiences"/>
 </a>
 
@@ -59,7 +59,7 @@ const mujtaba = {
 
 <div align="center">
 
-<a href="https://mujtabamuneer.is-a.dev">
+<a href="https://mujtaba.is-a.dev">
   <img width="72%" src="./rotating-3d-orb.gif" alt="Rotating neon 3D orb"/>
 </a>
 
@@ -67,7 +67,7 @@ const mujtaba = {
 
 <a href="./mujtaba-neon-orb.glb"><strong>Open the GLB model</strong></a>
 &nbsp;•&nbsp;
-<a href="https://mujtabamuneer.is-a.dev"><strong>Visit my portfolio</strong></a>
+<a href="https://mujtaba.is-a.dev"><strong>Visit my portfolio</strong></a>
 
 </div>
 
@@ -77,7 +77,7 @@ const mujtaba = {
 
 <div align="center">
 
-<a href="https://mujtabamuneer.is-a.dev">
+<a href="https://mujtaba.is-a.dev">
   <img width="92%" src="./project-portfolio.svg" alt="Mujtaba Portfolio project"/>
 </a>
 
@@ -121,7 +121,7 @@ const mujtaba = {
 
 <div align="center">
 
-<a href="https://mujtabamuneer.is-a.dev">
+<a href="https://mujtaba.is-a.dev">
   <img width="145" src="./portfolio.svg" alt="Mujtaba's portfolio website"/>
 </a>
 
@@ -144,7 +144,7 @@ const mujtaba = {
 </div>
 
 <p align="center">
-  🌐 <a href="https://mujtabamuneer.is-a.dev"><strong>mujtabamuneer.is-a.dev</strong></a><br/>
+  🌐 <a href="https://mujtaba.is-a.dev"><strong>mujtaba.is-a.dev</strong></a><br/>
   📧 <strong>mujtaba.muneer@defyscale.com</strong>
 </p>
 
